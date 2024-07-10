@@ -1,5 +1,6 @@
 /*
     Effective for small datasets or nearly sorted data
+    Complexity: O(n^2)
 */
 
 pub fn sort(mut arr: Vec<i32>) -> Vec<i32> {
